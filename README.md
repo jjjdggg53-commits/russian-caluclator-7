@@ -8,6 +8,10 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/d02dd3fe-6fdb-4934-ae4f-06d583c10834
 
+## Live Site
+
+https://jjjdggg53-commits.github.io/russian-caluclator-7/
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
