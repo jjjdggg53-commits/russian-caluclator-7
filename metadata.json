@@ -1,0 +1,6 @@
+{
+  "name": "Russian Calculator",
+  "description": "A Soviet-retro themed calculator that unlocks a custom sandbox Gaming Hub when entering secret passcodes (1987 for Player, 20186356 for Admin).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
